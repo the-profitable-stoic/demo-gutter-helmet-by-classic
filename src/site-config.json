@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Gutter Helmet by Classic",
+    "phone": "+15026716949",
+    "category": "gutter company",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Louisville's Gutter Experts",
+      "heroSubline": "Protect your home with our reliable gutter solutions. Serving Louisville and surrounding areas.",
+      "aboutTitle": "Protecting Louisville Homes, One Gutter at a Time",
+      "aboutText": [
+        "Gutter Helmet by Classic started with a simple mission: to provide Louisville homeowners with dependable gutter protection that stands up to Kentucky's unpredictable weather. We've seen firsthand the damage that neglected gutters can cause to homes in the Highlands, NuLu, and beyond, and we're committed to offering lasting solutions.",
+        "Our approach is straightforward: quality materials, expert installation, and a focus on customer satisfaction. We don't cut corners, and we treat every project – from small repairs to full gutter replacements – with the same level of care and attention to detail.",
+        "We're proud to be a part of the Louisville community. From sponsoring local events to supporting neighborhood initiatives, we believe in giving back to the city we call home."
+      ],
+      "valueProps": [
+        {
+          "title": "Proven Protection",
+          "description": "Shield your home from water damage with our durable gutter systems."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures a perfect fit and long-lasting performance."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Louisville's climate and housing styles."
+        },
+        {
+          "title": "Peace of Mind",
+          "description": "Enjoy worry-free protection with our comprehensive warranties."
+        }
+      ],
+      "ctaHeadline": "Get a Free Gutter Inspection",
+      "ctaSubline": "Protect your home from water damage. Schedule your free inspection today!"
+    },
+    "services": [
+      {
+        "slug": "gutter-helmet-installation",
+        "name": "Gutter Helmet Installation",
+        "shortDescription": "The ultimate gutter protection system—no more cleaning!",
+        "description": "Gutter Helmet is a revolutionary gutter protection system designed to keep leaves, pine needles, and other debris out of your gutters, eliminating the need for manual cleaning. Our team are experts in installing Gutter Helmet on various home styles throughout Louisville, from the historic homes of Old Louisville to the modern builds in St. Matthews. We ensure a seamless fit and optimal performance, providing you with a lifetime of worry-free gutter protection. Gutter Helmet’s unique design allows rainwater to flow freely while deflecting debris, preventing clogs and water damage to your home's foundation, siding, and landscaping. Invest in Gutter Helmet and enjoy a maintenance-free gutter system that protects your home year-round.",
+        "process": [
+          "Step 1: Initial Consultation and Measurement",
+          "Step 2: Custom Gutter Helmet System Design",
+          "Step 3: Professional Installation by Certified Installers",
+          "Step 4: Final Inspection and System Activation"
+        ],
+        "benefits": [
+          "Eliminates Gutter Cleaning",
+          "Protects Against Water Damage",
+          "Increases Home Value",
+          "Lifetime Warranty"
+        ],
+        "faq": [
+          {
+            "question": "How does Gutter Helmet work?",
+            "answer": "Gutter Helmet uses a patented nose-forward design that allows rainwater to flow into the gutter while deflecting leaves and debris. The textured surface further enhances water adhesion, ensuring efficient water flow even during heavy rain."
+          },
+          {
+            "question": "Is Gutter Helmet suitable for all types of roofs?",
+            "answer": "Yes, Gutter Helmet can be installed on most roof types, including asphalt shingles, tile, and metal roofs. Our team will assess your roof and recommend the best installation method for optimal performance."
+          },
+          {
+            "question": "Does Gutter Helmet come with a warranty?",
+            "answer": "Yes, Gutter Helmet comes with a lifetime warranty that covers both materials and performance. This ensures that your investment is protected for years to come."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-repair",
+        "name": "Gutter Repair",
+        "shortDescription": "Expert repairs to fix leaks, sags, and damage.",
+        "description": "Kentucky weather, especially the spring storms, can wreak havoc on your gutters. From minor leaks to major damage caused by fallen branches, we offer comprehensive gutter repair services to restore your system's functionality. We handle all types of repairs, including patching leaks, replacing damaged sections, re-securing sagging gutters, and realigning downspouts. Our team uses high-quality materials and proven techniques to ensure lasting repairs that withstand the elements. We understand the importance of properly functioning gutters in protecting your home from water damage, and we're committed to providing prompt and reliable repair services throughout Louisville and the surrounding communities. Don't let a small gutter problem turn into a costly home repair – call us for a free inspection and estimate.",
+        "process": [
+          "Step 1: Thorough Gutter Inspection",
+          "Step 2: Detailed Repair Estimate",
+          "Step 3: Professional Repair Service",
+          "Step 4: Post-Repair Inspection and Testing"
+        ],
+        "benefits": [
+          "Prevents Water Damage",
+          "Extends Gutter Lifespan",
+          "Saves Money on Costly Repairs",
+          "Improves Home Appearance"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my gutters need repair?",
+            "answer": "Signs of gutter damage include leaks, sagging, rust, overflowing water, and detached downspouts. If you notice any of these issues, it's important to have your gutters inspected by a professional."
+          },
+          {
+            "question": "Can you repair gutters on older homes?",
+            "answer": "Yes, we have experience repairing gutters on homes of all ages and styles, including the historic homes in Old Louisville. We can source materials that match the original style of your gutters."
+          },
+          {
+            "question": "How long does a typical gutter repair take?",
+            "answer": "The duration of a gutter repair depends on the extent of the damage. Minor repairs can often be completed in a few hours, while more extensive repairs may take a full day."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-replacement",
+        "name": "Gutter Replacement",
+        "shortDescription": "Upgrade your gutters with our durable, high-quality systems.",
+        "description": "When gutter repairs are no longer sufficient, or your existing gutters are simply outdated and ineffective, Gutter Helmet by Classic offers professional gutter replacement services. We provide a wide selection of gutter materials, including aluminum, copper, and steel, to suit your home's style and budget. Our team will carefully remove your old gutters and install a new, seamless system that provides optimal water drainage and protection. We pay close attention to detail, ensuring that your new gutters are properly sloped, securely attached, and aesthetically pleasing. With our expert gutter replacement services, you can rest assured that your home is protected from water damage for years to come.",
+        "process": [
+          "Step 1: Consultation and Material Selection",
+          "Step 2: Precise Measurement and Custom Fabrication",
+          "Step 3: Professional Gutter Removal",
+          "Step 4: Expert Installation of New Gutters"
+        ],
+        "benefits": [
+          "Improved Water Drainage",
+          "Enhanced Home Protection",
+          "Increased Curb Appeal",
+          "Long-Lasting Performance"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right gutter material?",
+            "answer": "The best gutter material depends on your budget, aesthetic preferences, and the climate in your area. Aluminum is a popular choice for its affordability and durability, while copper offers a classic look and exceptional longevity."
+          },
+          {
+            "question": "What is the lifespan of new gutters?",
+            "answer": "The lifespan of new gutters varies depending on the material and installation quality. Aluminum gutters can last for 20-30 years, while copper gutters can last for 50 years or more."
+          },
+          {
+            "question": "Do you offer seamless gutters?",
+            "answer": "Yes, we specialize in seamless gutter installation. Seamless gutters eliminate weak points and reduce the risk of leaks, providing superior performance and a cleaner look."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Remove debris and ensure proper water flow.",
+        "description": "While Gutter Helmet eliminates the need for regular cleaning, some homeowners may still require occasional gutter cleaning services, especially after severe storms. We offer professional gutter cleaning to remove any accumulated debris and ensure proper water drainage. Our team uses safe and effective techniques to clear your gutters without damaging your roof or landscaping. We also inspect your gutters for any signs of damage and recommend necessary repairs to keep your system functioning optimally. Keep your gutters clean and clear with our reliable gutter cleaning services.",
+        "process": [
+          "Step 1: Thorough Gutter Inspection",
+          "Step 2: Debris Removal and Cleaning",
+          "Step 3: Downspout Flushing",
+          "Step 4: Final Inspection and Cleanup"
+        ],
+        "benefits": [
+          "Prevents Water Damage",
+          "Maintains Gutter Functionality",
+          "Extends Gutter Lifespan",
+          "Protects Your Home's Foundation"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "Ideally, gutters should be cleaned at least twice a year, in the spring and fall. However, if you live in an area with heavy tree cover, you may need to clean them more frequently."
+          },
+          {
+            "question": "Can I clean my gutters myself?",
+            "answer": "While it is possible to clean your gutters yourself, it can be dangerous, especially if you have a steep roof. We recommend hiring a professional to ensure the job is done safely and effectively."
+          },
+          {
+            "question": "What tools do you use to clean gutters?",
+            "answer": "We use a variety of tools to clean gutters, including ladders, hoses, scoops, and leaf blowers. Our team is trained to use these tools safely and efficiently."
+          }
+        ]
+      },
+      {
+        "slug": "downspout-installation-repair",
+        "name": "Downspout Installation & Repair",
+        "shortDescription": "Ensure proper drainage with our downspout services.",
+        "description": "Downspouts are a critical component of your gutter system, directing water away from your home's foundation. We offer downspout installation and repair services to ensure proper drainage and prevent water damage. Our team can install new downspouts, repair damaged downspouts, and extend downspouts to direct water further away from your foundation. We use durable materials and proven techniques to ensure that your downspouts function effectively and withstand the elements. Protect your home's foundation with our expert downspout services.",
+        "process": [
+          "Step 1: Site Assessment and Measurement",
+          "Step 2: Downspout Design and Material Selection",
+          "Step 3: Professional Installation or Repair",
+          "Step 4: Water Flow Testing"
+        ],
+        "benefits": [
+          "Prevents Foundation Damage",
+          "Controls Water Runoff",
+          "Protects Landscaping",
+          "Extends Gutter Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "Why are downspouts important?",
+            "answer": "Downspouts are essential for directing water away from your home's foundation, preventing water damage and erosion. Properly functioning downspouts can save you thousands of dollars in foundation repairs."
+          },
+          {
+            "question": "How far should downspouts extend away from my house?",
+            "answer": "Downspouts should extend at least 4-6 feet away from your foundation to effectively divert water. In some cases, you may need to extend them further to avoid water pooling near your home."
+          },
+          {
+            "question": "What are the different types of downspouts?",
+            "answer": "Downspouts come in various materials, shapes, and sizes. The most common types are rectangular and round downspouts, made from aluminum, steel, or copper. The best type for your home depends on your aesthetic preferences and drainage needs."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-fascia-repair",
+        "name": "Soffit & Fascia Repair",
+        "shortDescription": "Protect your roof with soffit and fascia repairs.",
+        "description": "Soffit and fascia play a crucial role in protecting your roof and attic from moisture and pests. Damaged soffit and fascia can lead to water damage, mold growth, and structural problems. We offer professional soffit and fascia repair services to restore the integrity of your roof. Our team can repair or replace damaged soffit and fascia, ensuring proper ventilation and protection for your home. We use high-quality materials and proven techniques to ensure lasting repairs that withstand the elements. Protect your roof with our expert soffit and fascia repair services.",
+        "process": [
+          "Step 1: Inspection of Soffit and Fascia",
+          "Step 2: Assessment of Damage and Deterioration",
+          "Step 3: Removal of Damaged Materials",
+          "Step 4: Installation of New Soffit and Fascia"
+        ],
+        "benefits": [
+          "Prevents Water Intrusion",
+          "Maintains Proper Ventilation",
+          "Protects Against Pests",
+          "Extends Roof Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "What is soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the board that runs along the edge of your roof, connecting the soffit to the roof rafters. Both play a crucial role in protecting your roof and attic."
+          },
+          {
+            "question": "How do I know if my soffit and fascia are damaged?",
+            "answer": "Signs of soffit and fascia damage include peeling paint, rotting wood, water stains, and pest infestations. If you notice any of these issues, it's important to have your roof inspected by a professional."
+          },
+          {
+            "question": "Why is ventilation important for my roof?",
+            "answer": "Proper ventilation is essential for preventing moisture buildup in your attic, which can lead to mold growth and structural damage. Soffit vents allow air to circulate, keeping your attic dry and healthy."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Gutter Helmet Installation",
+        "text": "We had Gutter Helmet installed on our home in the Highlands, and we couldn't be happier! The team was professional, efficient, and the installation was seamless. No more cleaning gutters – it's a dream come true!",
+        "date": "2024-10-26"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Gutter Repair",
+        "text": "Our gutters were damaged after a bad storm, and Gutter Helmet by Classic came out quickly to assess the damage and make the necessary repairs. They were honest, upfront about the costs, and did a great job. Highly recommend!",
+        "date": "2024-09-15"
+      },
+      {
+        "name": "Emily P.",
+        "rating": 5,
+        "service": "Gutter Replacement",
+        "text": "We recently replaced our old, leaky gutters with a new system from Gutter Helmet by Classic. The team was knowledgeable and helped us choose the right materials for our home. The installation was fast and clean, and our new gutters look fantastic!",
+        "date": "2024-08-01"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "I needed my gutters cleaned out before winter, and these guys did a fantastic job. They were thorough, professional, and left my property spotless. I'll definitely be using them again!",
+        "date": "2024-07-12"
+      },
+      {
+        "name": "Lisa B.",
+        "rating": 4,
+        "service": "Downspout Repair",
+        "text": "My downspout was completely detached from the house. They came out and fixed it quickly and professionally. Great service!",
+        "date": "2024-06-03"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Gutter Helmet Installation",
+        "text": "After years of dealing with clogged gutters, I finally decided to invest in Gutter Helmet. The installation process was smooth and efficient, and I haven't had to worry about cleaning my gutters since. A fantastic investment!",
+        "date": "2024-05-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Gutter Helmet by Classic | Louisville Gutters",
+        "description": "Louisville's trusted gutter experts. Gutter Helmet installation, repair, cleaning & replacement. Free estimates! Call today."
+      },
+      "about": {
+        "title": "About Gutter Helmet by Classic | Louisville, KY",
+        "description": "Learn about Gutter Helmet by Classic's commitment to quality gutter solutions in Louisville. Expert installation and reliable service."
+      },
+      "services": {
+        "title": "Gutter Services | Louisville, KY | Gutter Helmet",
+        "description": "Comprehensive gutter services in Louisville, KY. Installation, repair, cleaning, and replacement. Protect your home from water damage."
+      },
+      "contact": {
+        "title": "Contact Gutter Helmet by Classic | Louisville, KY",
+        "description": "Contact Gutter Helmet by Classic for gutter services in Louisville. Get a free estimate for gutter installation, repair, and cleaning."
+      },
+      "reviews": {
+        "title": "Gutter Helmet by Classic Reviews | Louisville, KY",
+        "description": "Read reviews for Gutter Helmet by Classic in Louisville, KY. See why our customers trust us for gutter installation, repair, and cleaning."
+      },
+      "service-areas": {
+        "title": "Gutter Service Areas | Louisville & Surrounding KY",
+        "description": "Gutter services in Louisville and surrounding Kentucky areas. Gutter Helmet by Classic provides reliable gutter solutions."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Louisville",
+        "slug": "louisville-ky",
+        "state": "KY",
+        "content": "Gutter Helmet by Classic is proud to serve the Louisville, Kentucky area, providing top-quality gutter protection solutions for homeowners. We understand the unique challenges that Louisville's weather patterns can pose to your home's gutters, from heavy rain and snowfall to falling leaves and debris. Our Gutter Helmet system is designed to withstand these challenges and keep your gutters clear and functioning properly, protecting your home from water damage. \n\nWith Gutter Helmet, you can say goodbye to the hassle and danger of cleaning your gutters. Our system prevents leaves, pine needles, and other debris from entering your gutters, ensuring that rainwater flows freely away from your home's foundation. This can help prevent costly problems such as basement flooding, foundation cracks, and landscape erosion. We are committed to providing Louisville homeowners with reliable and effective gutter protection services, backed by our commitment to quality and customer satisfaction.",
+        "localContext": "Louisville is a vibrant city known for its unique blend of Southern charm and urban energy. Its diverse neighborhoods and historic architecture make it a special place to call home.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "St. Matthews",
+          "Shively"
+        ]
+      },
+      {
+        "city": "Lexington",
+        "slug": "lexington-ky",
+        "state": "KY",
+        "content": "Gutter Helmet by Classic extends its exceptional gutter protection services to Lexington, Kentucky, a city renowned for its horse farms and vibrant community. Lexington's unique climate, with its distinct seasons and potential for heavy rainfall, necessitates reliable gutter solutions. Our Gutter Helmet system is engineered to handle Lexington's weather, preventing debris buildup and ensuring proper water drainage.\n\nWe understand the importance of protecting your Lexington home from water damage. Our Gutter Helmet system keeps leaves, twigs, and other debris out of your gutters, eliminating the need for manual cleaning. This not only saves you time and effort but also protects your home's foundation, siding, and landscaping. Gutter Helmet by Classic is dedicated to providing Lexington homeowners with peace of mind through our durable and effective gutter protection solutions.",
+        "localContext": "Lexington is known as the \"Horse Capital of the World\" and boasts a thriving arts and culture scene.",
+        "nearbyAreas": [
+          "Nicholasville",
+          "Georgetown",
+          "Winchester"
+        ]
+      },
+      {
+        "city": "Bowling Green",
+        "slug": "bowling-green-ky",
+        "state": "KY",
+        "content": "Gutter Helmet by Classic is proud to offer our superior gutter protection services to the residents of Bowling Green, Kentucky. With its growing community and diverse housing styles, Bowling Green presents unique challenges when it comes to gutter maintenance. Our Gutter Helmet system is designed to address these challenges, providing a long-lasting solution that protects your home from water damage.\n\nWe are committed to helping Bowling Green homeowners maintain the value and integrity of their properties. Our Gutter Helmet system prevents leaves, debris, and pests from entering your gutters, ensuring optimal water flow and preventing costly repairs. By choosing Gutter Helmet by Classic, you can enjoy a maintenance-free gutter system that enhances the beauty and functionality of your home.",
+        "localContext": "Bowling Green is home to Western Kentucky University and the National Corvette Museum, making it a hub for education and automotive enthusiasts.",
+        "nearbyAreas": [
+          "Franklin",
+          "Scottsville",
+          "Russellville"
+        ]
+      },
+      {
+        "city": "Owensboro",
+        "slug": "owensboro-ky",
+        "state": "KY",
+        "content": "Gutter Helmet by Classic is pleased to serve the Owensboro, Kentucky community, offering top-of-the-line gutter protection solutions. Owensboro's location along the Ohio River makes it susceptible to varying weather conditions, including heavy rain and seasonal changes that can impact your gutters. Our Gutter Helmet system is designed to withstand these conditions, providing reliable protection year-round.\n\nWe understand the importance of keeping your gutters clean and free of debris. Our Gutter Helmet system eliminates the need for manual cleaning, saving you time and effort while protecting your home from water damage. By choosing Gutter Helmet by Classic, you can enjoy a maintenance-free gutter system that enhances the value and beauty of your Owensboro home.",
+        "localContext": "Owensboro is known as the \"Barbecue Capital of the World\" and hosts the International Bar-B-Q Festival annually.",
+        "nearbyAreas": [
+          "Henderson",
+          "Hartford",
+          "Hawesville"
+        ]
+      },
+      {
+        "city": "Jeffersontown",
+        "slug": "jeffersontown-ky",
+        "state": "KY",
+        "content": "Gutter Helmet by Classic is delighted to offer our exceptional gutter protection services to the residents of Jeffersontown, Kentucky, a thriving community within the Louisville metropolitan area. Jeffersontown's blend of residential and commercial properties requires reliable gutter solutions that can withstand the demands of a bustling environment. Our Gutter Helmet system is engineered to meet these demands, providing long-lasting protection against debris buildup and water damage.\n\nWe are committed to helping Jeffersontown homeowners and businesses maintain the value and integrity of their properties. Our Gutter Helmet system prevents leaves, twigs, and other debris from entering your gutters, eliminating the need for manual cleaning. This not only saves you time and effort but also protects your building's foundation, siding, and landscaping. Choose Gutter Helmet by Classic for peace of mind and superior gutter protection.",
+        "localContext": "Jeffersontown is a vibrant suburban city with a strong sense of community and a thriving business sector.",
+        "nearbyAreas": [
+          "Louisville",
+          "St. Matthews",
+          "Middletown"
+        ]
+      },
+      {
+        "city": "Covington",
+        "slug": "covington-ky",
+        "state": "KY",
+        "content": "Gutter Helmet by Classic extends its dependable gutter protection services to Covington, Kentucky. Situated across the Ohio River from Cincinnati, Covington experiences varied weather patterns that can challenge gutter systems. Our Gutter Helmet system is designed to withstand these conditions, ensuring year-round protection from debris and water damage.\n\nWe understand the importance of maintaining your Covington property. Our Gutter Helmet system prevents leaves, twigs, and other debris from entering your gutters, removing the need for manual cleaning. This saves you time and effort while safeguarding your home's structure. Gutter Helmet by Classic is dedicated to delivering peace of mind with our durable and effective gutter protection solutions.",
+        "localContext": "Covington boasts stunning architecture, a vibrant arts scene, and a rich history along the Ohio River.",
+        "nearbyAreas": [
+          "Newport",
+          "Park Hills",
+          "Fort Wright"
+        ]
+      },
+      {
+        "city": "Richmond",
+        "slug": "richmond-ky",
+        "state": "KY",
+        "content": "Gutter Helmet by Classic is pleased to provide Richmond, Kentucky, with top-quality gutter protection services. Richmond's growing community and diverse weather patterns underscore the need for dependable gutter solutions. Our Gutter Helmet system is designed to meet these demands, providing lasting protection against debris accumulation and water damage.\n\nWe are dedicated to helping Richmond homeowners preserve their property value. Our Gutter Helmet system prevents leaves, debris, and pests from entering your gutters, ensuring proper water flow and preventing costly repairs. By choosing Gutter Helmet by Classic, you can enjoy a maintenance-free gutter system that enhances your home's functionality and beauty.",
+        "localContext": "Richmond is home to Eastern Kentucky University and boasts a rich history and beautiful natural surroundings.",
+        "nearbyAreas": [
+          "Berea",
+          "Lexington",
+          "Winchester"
+        ]
+      },
+      {
+        "city": "Florence",
+        "slug": "florence-ky",
+        "state": "KY",
+        "content": "Gutter Helmet by Classic is happy to offer exceptional gutter protection to residents in Florence, Kentucky, a bustling city near Cincinnati. Florence experiences a range of weather conditions that can impact gutter performance. Our Gutter Helmet system is engineered to handle these challenges, offering consistent protection from debris and water damage.\n\nWe understand the importance of protecting your Florence home. Our Gutter Helmet system prevents leaves, twigs, and other debris from entering your gutters, eliminating manual cleaning. This saves time and effort while safeguarding your home's foundation and structure. Gutter Helmet by Classic brings you peace of mind with our durable and effective gutter protection.",
+        "localContext": "Florence is known for its shopping centers, diverse community, and proximity to Cincinnati.",
+        "nearbyAreas": [
+          "Erlanger",
+          "Union",
+          "Burlington"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "gutter-helmet-installation": "/images/service-gutter-helmet-installation.webp",
+      "gutter-repair": "/images/service-gutter-repair.webp",
+      "gutter-replacement": "/images/service-gutter-replacement.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "downspout-installation-repair": "/images/service-downspout-installation-repair.webp",
+      "soffit-fascia-repair": "/images/service-soffit-fascia-repair.webp"
+    },
+    "servicesResponsive": {
+      "gutter-helmet-installation": {
+        "src": "/images/service-gutter-helmet-installation.webp",
+        "srcset": "/images/service-gutter-helmet-installation-400w.webp 400w, /images/service-gutter-helmet-installation-800w.webp 800w, /images/service-gutter-helmet-installation-1200w.webp 1200w, /images/service-gutter-helmet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-repair": {
+        "src": "/images/service-gutter-repair.webp",
+        "srcset": "/images/service-gutter-repair-400w.webp 400w, /images/service-gutter-repair-800w.webp 800w, /images/service-gutter-repair-1200w.webp 1200w, /images/service-gutter-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-replacement": {
+        "src": "/images/service-gutter-replacement.webp",
+        "srcset": "/images/service-gutter-replacement-400w.webp 400w, /images/service-gutter-replacement-800w.webp 800w, /images/service-gutter-replacement-1200w.webp 1200w, /images/service-gutter-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "downspout-installation-repair": {
+        "src": "/images/service-downspout-installation-repair.webp",
+        "srcset": "/images/service-downspout-installation-repair-400w.webp 400w, /images/service-downspout-installation-repair-800w.webp 800w, /images/service-downspout-installation-repair-1200w.webp 1200w, /images/service-downspout-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-fascia-repair": {
+        "src": "/images/service-soffit-fascia-repair.webp",
+        "srcset": "/images/service-soffit-fascia-repair-400w.webp 400w, /images/service-soffit-fascia-repair-800w.webp 800w, /images/service-soffit-fascia-repair-1200w.webp 1200w, /images/service-soffit-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
